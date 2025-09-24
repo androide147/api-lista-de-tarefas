@@ -75,15 +75,4 @@ Send para executar a requisição.
 
 7. Prints dos Testes
 Abaixo estão os prints dos testes de cada uma das 4 operações CRUD, conforme exigido. 
-As imagens estão localizadas na pasta 
-
-
-/prints do projeto.
-
-POST /tarefas
-
-GET /tarefas
-
-PUT /tarefas/:id
-
-DELETE /tarefas/:id
+As imagens estão localizadas na pasta: /prints 
